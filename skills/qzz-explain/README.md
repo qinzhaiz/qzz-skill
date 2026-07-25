@@ -41,7 +41,7 @@ explain：带你深入路线上每一个点
 ## 讲解可以保存
 
 每次深讲结束后，可以选择把讲解保存到 `qzz-mysql` 技能的知识库。保存格式与现有知识库一致：
-- 路径：`skills/qzz-mysql/references/<章节>/<概念名>/README.md`
+- 路径：`skills/qzz-mysql/knowledge/<章节>/<概念名>/README.md`
 - 每个概念 7 个文件：README.md / metadata.yaml / examples.md / exercises.md / mistakes.md / interview.md / references.md
 
 现有知识库已覆盖 17 章 71 个概念。

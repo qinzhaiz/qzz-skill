@@ -1,0 +1,9 @@
+# 技能级元数据模板
+# 复制到 skills/<skill-name>/metadata.yaml
+# 仅知识型技能需要此文件
+
+name: <skill-name>             # 与目录名一致
+version: 1.0.0
+chapters: 0                    # 章节总数
+concepts: 0                    # 概念总数
+updated: 2026-07-25            # 最后更新日期（ISO 8601）
