@@ -1,0 +1,14 @@
+name: "SQL 执行流程"
+section: "09-execution"
+difficulty: "beginner"
+prerequisites:
+  - "01-basic/install"
+  - "01-basic/what-is-mysql"
+topics:
+  - "连接器"
+  - "分析器"
+  - "优化器"
+  - "执行器"
+  - "SQL 生命周期"
+  - "查询缓存"
+updated: "2026-07-25"

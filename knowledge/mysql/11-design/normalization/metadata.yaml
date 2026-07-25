@@ -1,0 +1,15 @@
+name: "数据库范式"
+section: "11-design"
+difficulty: "intermediate"
+prerequisites:
+  - "11-design/er-model"
+  - "02-ddl/create-table"
+topics:
+  - "范式"
+  - "1NF"
+  - "2NF"
+  - "3NF"
+  - "BCNF"
+  - "反范式化"
+  - "数据冗余"
+updated: "2026-07-25"

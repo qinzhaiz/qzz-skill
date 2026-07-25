@@ -1,0 +1,8 @@
+name: 排序和分页
+section: 04-query
+difficulty: beginner
+prerequisites:
+  - 04-query/select-basic
+  - 04-query/where
+topics: [ORDER BY, LIMIT, OFFSET, 分页]
+updated: 2025-07-25

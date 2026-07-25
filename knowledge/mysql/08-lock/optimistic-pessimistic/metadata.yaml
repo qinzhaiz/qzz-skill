@@ -1,0 +1,14 @@
+name: "乐观锁与悲观锁"
+section: "08-lock"
+difficulty: "intermediate"
+prerequisites:
+  - "08-lock/row-lock"
+  - "07-transaction/isolation"
+topics:
+  - "乐观锁"
+  - "悲观锁"
+  - "CAS"
+  - "版本号"
+  - "FOR UPDATE"
+  - "并发控制"
+updated: "2026-07-25"

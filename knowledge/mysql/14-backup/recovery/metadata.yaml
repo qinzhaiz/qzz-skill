@@ -1,0 +1,16 @@
+name: "数据恢复"
+section: "14-backup"
+difficulty: "intermediate"
+prerequisites:
+  - "14-backup/mysqldump"
+  - "14-backup/xtrabackup"
+  - "13-replication/master-slave"
+topics:
+  - "数据恢复"
+  - "时间点恢复"
+  - "binlog"
+  - "全量恢复"
+  - "增量恢复"
+  - "RPO"
+  - "RTO"
+updated: "2026-07-25"

@@ -1,0 +1,7 @@
+name: B+Tree 原理
+section: 06-index
+difficulty: intermediate
+prerequisites:
+  - 06-index/what-is-index
+topics: [B+Tree, InnoDB, 数据结构, 索引原理]
+updated: 2025-07-25

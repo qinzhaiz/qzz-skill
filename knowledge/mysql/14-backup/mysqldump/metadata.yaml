@@ -1,0 +1,13 @@
+name: "mysqldump 逻辑备份"
+section: "14-backup"
+difficulty: "beginner"
+prerequisites:
+  - "01-basic/install"
+  - "02-ddl/create-table"
+topics:
+  - "mysqldump"
+  - "逻辑备份"
+  - "--single-transaction"
+  - "--lock-tables"
+  - "SQL 导出"
+updated: "2026-07-25"

@@ -1,0 +1,8 @@
+name: 日期函数
+section: 05-function
+difficulty: beginner
+prerequisites:
+  - 02-ddl/datatypes
+  - 04-query/select-basic
+topics: [DATE, DATETIME, NOW, DATE_FORMAT, DATEDIFF]
+updated: 2025-07-25

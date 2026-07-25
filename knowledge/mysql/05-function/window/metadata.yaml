@@ -1,0 +1,8 @@
+name: 窗口函数
+section: 05-function
+difficulty: intermediate
+prerequisites:
+  - 04-query/group-by
+  - 04-query/order-limit
+topics: [窗口函数, ROW_NUMBER, RANK, LAG, LEAD, MySQL 8.0]
+updated: 2025-07-25

@@ -1,0 +1,7 @@
+name: 更新数据
+section: 03-dml
+difficulty: beginner
+prerequisites:
+  - 03-dml/insert
+topics: [UPDATE, DML, WHERE]
+updated: 2025-07-25

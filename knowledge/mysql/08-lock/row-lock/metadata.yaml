@@ -1,0 +1,16 @@
+name: "行级锁"
+section: "08-lock"
+difficulty: "intermediate"
+prerequisites:
+  - "08-lock/table-lock"
+  - "06-index/clustered-index"
+  - "07-transaction/isolation"
+topics:
+  - "行锁"
+  - "Record Lock"
+  - "Gap Lock"
+  - "Next-Key Lock"
+  - "插入意向锁"
+  - "两阶段锁协议"
+  - "FOR UPDATE"
+updated: "2026-07-25"

@@ -1,0 +1,15 @@
+name: "主从复制"
+section: "13-replication"
+difficulty: "intermediate"
+prerequisites:
+  - "09-execution/redo-undo-log"
+  - "09-execution/two-phase-commit"
+  - "12-engine/innodb-architecture"
+topics:
+  - "主从复制"
+  - "binlog"
+  - "relay log"
+  - "IO 线程"
+  - "SQL 线程"
+  - "GTID"
+updated: "2026-07-25"

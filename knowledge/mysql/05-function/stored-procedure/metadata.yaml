@@ -1,0 +1,9 @@
+name: 存储过程
+section: 05-function
+difficulty: intermediate
+prerequisites:
+  - 04-query/select-basic
+  - 03-dml/insert
+  - 03-dml/update
+topics: [存储过程, PROCEDURE, 封装]
+updated: 2025-07-25

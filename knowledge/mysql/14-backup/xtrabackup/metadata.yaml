@@ -1,0 +1,13 @@
+name: "XtraBackup 物理备份"
+section: "14-backup"
+difficulty: "intermediate"
+prerequisites:
+  - "14-backup/mysqldump"
+  - "12-engine/innodb-architecture"
+topics:
+  - "XtraBackup"
+  - "物理备份"
+  - "热备份"
+  - "增量备份"
+  - "Percona"
+updated: "2026-07-25"

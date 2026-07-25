@@ -1,0 +1,8 @@
+name: 子查询
+section: 04-query
+difficulty: intermediate
+prerequisites:
+  - 04-query/select-basic
+  - 04-query/where
+topics: [子查询, IN, EXISTS, 标量子查询]
+updated: 2025-07-25

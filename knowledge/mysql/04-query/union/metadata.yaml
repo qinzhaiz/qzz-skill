@@ -1,0 +1,7 @@
+name: UNION 合并
+section: 04-query
+difficulty: beginner
+prerequisites:
+  - 04-query/select-basic
+topics: [UNION, UNION ALL, 组合查询]
+updated: 2025-07-25

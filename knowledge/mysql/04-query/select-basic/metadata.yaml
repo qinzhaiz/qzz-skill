@@ -1,0 +1,7 @@
+name: SELECT 基础
+section: 04-query
+difficulty: beginner
+prerequisites:
+  - 03-dml/insert
+topics: [SELECT, DQL, DISTINCT, 别名, LIMIT]
+updated: 2025-07-25

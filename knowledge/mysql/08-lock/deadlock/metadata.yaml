@@ -1,0 +1,14 @@
+name: "死锁"
+section: "08-lock"
+difficulty: "intermediate"
+prerequisites:
+  - "08-lock/row-lock"
+  - "07-transaction/what-is-transaction"
+topics:
+  - "死锁"
+  - "deadlock"
+  - "等待图"
+  - "死锁检测"
+  - "innodb_deadlock_detect"
+  - "锁超时"
+updated: "2026-07-25"

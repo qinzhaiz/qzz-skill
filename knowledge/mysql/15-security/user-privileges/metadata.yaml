@@ -1,0 +1,13 @@
+name: "用户与权限管理"
+section: "15-security"
+difficulty: "beginner"
+prerequisites:
+  - "01-basic/install"
+topics:
+  - "用户管理"
+  - "权限管理"
+  - "GRANT"
+  - "REVOKE"
+  - "RBAC"
+  - "最小权限原则"
+updated: "2026-07-25"

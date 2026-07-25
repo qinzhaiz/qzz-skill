@@ -1,0 +1,7 @@
+# 概念元数据模板
+name: ""              # 概念名称
+section: ""           # 所属章节（如 06-index）
+difficulty: ""        # beginner / intermediate / advanced
+prerequisites: []     # 前置概念路径列表
+topics: []            # 关键词标签
+updated: ""           # 更新日期

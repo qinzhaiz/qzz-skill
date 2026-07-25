@@ -1,0 +1,7 @@
+name: 条件函数
+section: 05-function
+difficulty: beginner
+prerequisites:
+  - 04-query/select-basic
+topics: [CASE, IF, IFNULL, COALESCE, NULLIF]
+updated: 2025-07-25

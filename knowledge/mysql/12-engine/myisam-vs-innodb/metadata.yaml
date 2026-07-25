@@ -1,0 +1,14 @@
+name: "MyISAM 与 InnoDB"
+section: "12-engine"
+difficulty: "beginner"
+prerequisites:
+  - "01-basic/what-is-mysql"
+  - "12-engine/innodb-architecture"
+topics:
+  - "MyISAM"
+  - "InnoDB"
+  - "存储引擎对比"
+  - "表锁"
+  - "事务"
+  - "崩溃恢复"
+updated: "2026-07-25"

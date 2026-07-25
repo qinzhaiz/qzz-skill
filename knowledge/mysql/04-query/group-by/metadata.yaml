@@ -1,0 +1,8 @@
+name: 分组统计
+section: 04-query
+difficulty: beginner
+prerequisites:
+  - 04-query/select-basic
+  - 04-query/where
+topics: [GROUP BY, HAVING, COUNT, SUM, AVG]
+updated: 2025-07-25

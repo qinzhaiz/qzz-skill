@@ -1,0 +1,7 @@
+name: 第一次查询
+section: 01-basic
+difficulty: beginner
+prerequisites:
+  - 01-basic/install
+topics: [mysql 命令行, 建库, 建表, SELECT]
+updated: 2025-07-25

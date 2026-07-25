@@ -1,0 +1,13 @@
+name: "配置调优"
+section: "10-performance"
+difficulty: "beginner"
+prerequisites:
+  - "01-basic/install"
+  - "09-execution/redo-undo-log"
+topics:
+  - "Buffer Pool"
+  - "innodb_buffer_pool_size"
+  - "MySQL 配置"
+  - "内存调优"
+  - "IO 调优"
+updated: "2026-07-25"

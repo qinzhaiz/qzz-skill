@@ -1,0 +1,8 @@
+name: CTE 公用表表达式
+section: 04-query
+difficulty: intermediate
+prerequisites:
+  - 04-query/select-basic
+  - 04-query/join
+topics: [CTE, WITH, 公用表表达式, MySQL 8.0]
+updated: 2025-07-25

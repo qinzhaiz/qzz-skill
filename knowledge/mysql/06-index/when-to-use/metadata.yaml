@@ -1,0 +1,8 @@
+name: 什么时候该建索引
+section: 06-index
+difficulty: intermediate
+prerequisites:
+  - 06-index/composite-index
+  - 06-index/covering-index
+topics: [索引策略, 建索引, 索引失效]
+updated: 2025-07-25

@@ -1,0 +1,7 @@
+name: 聚簇索引和二级索引
+section: 06-index
+difficulty: intermediate
+prerequisites:
+  - 06-index/btree
+topics: [聚簇索引, 二级索引, 回表, InnoDB]
+updated: 2025-07-25

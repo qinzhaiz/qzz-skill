@@ -1,0 +1,13 @@
+name: "数据库代理"
+section: "16-cluster"
+difficulty: "intermediate"
+prerequisites:
+  - "13-replication/read-write-split"
+  - "16-cluster/high-availability"
+topics:
+  - "ProxySQL"
+  - "MySQL Router"
+  - "数据库代理"
+  - "连接池"
+  - "读写分离"
+updated: "2026-07-25"

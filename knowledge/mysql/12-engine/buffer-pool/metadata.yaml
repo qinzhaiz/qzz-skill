@@ -1,0 +1,14 @@
+name: "Buffer Pool 详解"
+section: "12-engine"
+difficulty: "intermediate"
+prerequisites:
+  - "12-engine/innodb-architecture"
+  - "10-performance/config-tuning"
+topics:
+  - "Buffer Pool"
+  - "LRU"
+  - "脏页"
+  - "预读"
+  - "Flush 策略"
+  - "innodb_buffer_pool_size"
+updated: "2026-07-25"

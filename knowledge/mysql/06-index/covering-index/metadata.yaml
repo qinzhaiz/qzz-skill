@@ -1,0 +1,8 @@
+name: 覆盖索引
+section: 06-index
+difficulty: intermediate
+prerequisites:
+  - 06-index/clustered-secondary
+  - 06-index/composite-index
+topics: [覆盖索引, 回表, 索引优化]
+updated: 2025-07-25

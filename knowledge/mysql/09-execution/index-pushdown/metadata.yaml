@@ -1,0 +1,14 @@
+name: "索引下推"
+section: "09-execution"
+difficulty: "intermediate"
+prerequisites:
+  - "06-index/what-is-index"
+  - "06-index/clustered-index"
+  - "04-query/select"
+topics:
+  - "ICP"
+  - "Index Condition Pushdown"
+  - "索引条件下推"
+  - "存储引擎"
+  - "MySQL 5.6"
+updated: "2026-07-25"

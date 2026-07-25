@@ -1,0 +1,8 @@
+name: 索引是什么
+section: 06-index
+difficulty: intermediate
+prerequisites:
+  - 02-ddl/create-table
+  - 04-query/where
+topics: [索引, CREATE INDEX, EXPLAIN, B+Tree]
+updated: 2025-07-25

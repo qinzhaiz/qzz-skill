@@ -1,0 +1,14 @@
+name: "命名规范"
+section: "11-design"
+difficulty: "beginner"
+prerequisites:
+  - "01-basic/what-is-mysql"
+  - "02-ddl/create-table"
+topics:
+  - "命名规范"
+  - "表名"
+  - "字段名"
+  - "索引名"
+  - "字符集"
+  - "排序规则"
+updated: "2026-07-25"

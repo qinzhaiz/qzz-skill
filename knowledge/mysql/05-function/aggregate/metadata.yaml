@@ -1,0 +1,7 @@
+name: 聚合函数
+section: 05-function
+difficulty: beginner
+prerequisites:
+  - 04-query/group-by
+topics: [COUNT, SUM, AVG, MAX, MIN, 聚合]
+updated: 2025-07-25

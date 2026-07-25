@@ -1,0 +1,9 @@
+.claude
+.codex
+.agents
+
+AGENTS.md
+CLAUDE.md
+research/
+
+tools/mdclean.py

@@ -1,0 +1,14 @@
+name: "SQL 注入防护"
+section: "15-security"
+difficulty: "beginner"
+prerequisites:
+  - "03-dml/insert"
+  - "04-query/select"
+  - "15-security/user-privileges"
+topics:
+  - "SQL 注入"
+  - "参数化查询"
+  - "预处理语句"
+  - "输入验证"
+  - "OWASP"
+updated: "2026-07-25"

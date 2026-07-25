@@ -1,0 +1,13 @@
+name: "主从延迟"
+section: "13-replication"
+difficulty: "advanced"
+prerequisites:
+  - "13-replication/master-slave"
+  - "13-replication/read-write-split"
+topics:
+  - "主从延迟"
+  - "Seconds_Behind_Master"
+  - "并行复制"
+  - "半同步复制"
+  - "组复制"
+updated: "2026-07-25"

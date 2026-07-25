@@ -1,0 +1,7 @@
+name: WHERE 条件
+section: 04-query
+difficulty: beginner
+prerequisites:
+  - 04-query/select-basic
+topics: [WHERE, AND, OR, IN, BETWEEN, LIKE, NULL]
+updated: 2025-07-25

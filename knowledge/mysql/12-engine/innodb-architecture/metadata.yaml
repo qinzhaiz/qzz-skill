@@ -1,0 +1,14 @@
+name: "InnoDB 架构"
+section: "12-engine"
+difficulty: "intermediate"
+prerequisites:
+  - "01-basic/what-is-mysql"
+  - "09-execution/redo-undo-log"
+topics:
+  - "InnoDB"
+  - "存储引擎"
+  - "表空间"
+  - "后台线程"
+  - "doublewrite buffer"
+  - "插入缓冲"
+updated: "2026-07-25"

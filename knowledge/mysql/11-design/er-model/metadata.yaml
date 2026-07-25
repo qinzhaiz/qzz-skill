@@ -1,0 +1,14 @@
+name: "ER 模型"
+section: "11-design"
+difficulty: "beginner"
+prerequisites:
+  - "02-ddl/create-table"
+  - "02-ddl/constraints"
+topics:
+  - "ER 图"
+  - "实体"
+  - "关系"
+  - "一对多"
+  - "多对多"
+  - "数据库设计"
+updated: "2026-07-25"

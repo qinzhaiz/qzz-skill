@@ -1,0 +1,12 @@
+name: "SSL/TLS 加密连接"
+section: "15-security"
+difficulty: "intermediate"
+prerequisites:
+  - "15-security/user-privileges"
+topics:
+  - "SSL"
+  - "TLS"
+  - "加密连接"
+  - "证书"
+  - "require_secure_transport"
+updated: "2026-07-25"

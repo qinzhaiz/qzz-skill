@@ -1,0 +1,15 @@
+name: "InnoDB 源码导读"
+section: "17-source"
+difficulty: "advanced"
+prerequisites:
+  - "17-source/source-structure"
+  - "12-engine/innodb-architecture"
+  - "06-index/clustered-index"
+topics:
+  - "InnoDB 源码"
+  - "B+Tree"
+  - "Buffer Pool"
+  - "事务"
+  - "锁"
+  - "redo log"
+updated: "2026-07-25"

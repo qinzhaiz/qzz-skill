@@ -1,0 +1,7 @@
+name: 创建数据库
+section: 02-ddl
+difficulty: beginner
+prerequisites:
+  - 01-basic/first-query
+topics: [CREATE DATABASE, DDL, 字符集]
+updated: 2025-07-25

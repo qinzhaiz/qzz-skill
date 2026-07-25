@@ -1,0 +1,7 @@
+name: 隔离级别
+section: 07-transaction
+difficulty: intermediate
+prerequisites:
+  - 07-transaction/acid
+topics: [隔离级别, READ UNCOMMITTED, READ COMMITTED, REPEATABLE READ, SERIALIZABLE]
+updated: 2025-07-25

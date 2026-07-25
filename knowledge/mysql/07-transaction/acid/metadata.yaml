@@ -1,0 +1,7 @@
+name: ACID
+section: 07-transaction
+difficulty: intermediate
+prerequisites:
+  - 07-transaction/what-is-transaction
+topics: [ACID, 原子性, 一致性, 隔离性, 持久性]
+updated: 2025-07-25

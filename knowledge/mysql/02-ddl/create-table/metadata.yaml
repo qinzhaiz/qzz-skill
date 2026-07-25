@@ -1,0 +1,7 @@
+name: 创建表
+section: 02-ddl
+difficulty: beginner
+prerequisites:
+  - 02-ddl/create-database
+topics: [CREATE TABLE, DDL, 表结构, ENGINE]
+updated: 2025-07-25

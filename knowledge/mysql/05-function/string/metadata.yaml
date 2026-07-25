@@ -1,0 +1,7 @@
+name: 字符串函数
+section: 05-function
+difficulty: beginner
+prerequisites:
+  - 04-query/select-basic
+topics: [CONCAT, SUBSTRING, REPLACE, 字符串]
+updated: 2025-07-25

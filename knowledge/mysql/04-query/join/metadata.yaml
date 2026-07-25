@@ -1,0 +1,8 @@
+name: JOIN 联结
+section: 04-query
+difficulty: intermediate
+prerequisites:
+  - 04-query/select-basic
+  - 02-ddl/constraints
+topics: [JOIN, INNER JOIN, LEFT JOIN, RIGHT JOIN, 联结]
+updated: 2025-07-25

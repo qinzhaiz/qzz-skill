@@ -1,0 +1,8 @@
+name: 删除数据
+section: 03-dml
+difficulty: beginner
+prerequisites:
+  - 03-dml/insert
+  - 03-dml/update
+topics: [DELETE, DML, TRUNCATE]
+updated: 2025-07-25

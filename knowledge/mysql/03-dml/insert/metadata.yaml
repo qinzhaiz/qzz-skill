@@ -1,0 +1,7 @@
+name: 插入数据
+section: 03-dml
+difficulty: beginner
+prerequisites:
+  - 02-ddl/create-table
+topics: [INSERT, DML, INSERT SELECT]
+updated: 2025-07-25

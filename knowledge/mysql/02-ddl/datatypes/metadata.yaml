@@ -1,0 +1,7 @@
+name: 数据类型
+section: 02-ddl
+difficulty: beginner
+prerequisites:
+  - 02-ddl/create-table
+topics: [INT, VARCHAR, TEXT, DATE, DECIMAL, ENUM]
+updated: 2025-07-25

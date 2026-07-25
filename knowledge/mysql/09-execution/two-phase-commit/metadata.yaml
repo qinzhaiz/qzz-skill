@@ -1,0 +1,15 @@
+name: "两阶段提交"
+section: "09-execution"
+difficulty: "advanced"
+prerequisites:
+  - "09-execution/redo-undo-log"
+  - "07-transaction/acid"
+  - "13-replication/what-is-replication"
+topics:
+  - "两阶段提交"
+  - "2PC"
+  - "binlog"
+  - "redo log"
+  - "XA 事务"
+  - "crash recovery"
+updated: "2026-07-25"

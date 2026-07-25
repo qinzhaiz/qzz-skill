@@ -1,0 +1,7 @@
+name: 联合索引和最左前缀
+section: 06-index
+difficulty: intermediate
+prerequisites:
+  - 06-index/clustered-secondary
+topics: [联合索引, 最左前缀, 复合索引]
+updated: 2025-07-25

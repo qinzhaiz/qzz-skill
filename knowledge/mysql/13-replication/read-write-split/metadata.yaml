@@ -1,0 +1,12 @@
+name: "读写分离"
+section: "13-replication"
+difficulty: "intermediate"
+prerequisites:
+  - "13-replication/master-slave"
+topics:
+  - "读写分离"
+  - "ProxySQL"
+  - "MySQL Router"
+  - "主从架构"
+  - "数据库中间件"
+updated: "2026-07-25"

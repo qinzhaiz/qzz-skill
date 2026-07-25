@@ -1,0 +1,17 @@
+name: "SQL 优化"
+section: "10-performance"
+difficulty: "intermediate"
+prerequisites:
+  - "04-query/select"
+  - "04-query/join"
+  - "06-index/optimization"
+  - "10-performance/explain"
+topics:
+  - "SQL 优化"
+  - "ORDER BY 优化"
+  - "LIMIT 优化"
+  - "JOIN 优化"
+  - "COUNT 优化"
+  - "大偏移量"
+  - "分批处理"
+updated: "2026-07-25"

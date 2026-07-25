@@ -1,0 +1,14 @@
+name: "EXPLAIN 执行计划"
+section: "10-performance"
+difficulty: "beginner"
+prerequisites:
+  - "04-query/select"
+  - "06-index/what-is-index"
+topics:
+  - "EXPLAIN"
+  - "执行计划"
+  - "type"
+  - "Extra"
+  - "索引使用"
+  - "性能分析"
+updated: "2026-07-25"

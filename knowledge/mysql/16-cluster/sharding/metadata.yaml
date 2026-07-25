@@ -1,0 +1,14 @@
+name: "分库分表"
+section: "16-cluster"
+difficulty: "advanced"
+prerequisites:
+  - "13-replication/read-write-split"
+  - "16-cluster/high-availability"
+topics:
+  - "分库分表"
+  - "水平拆分"
+  - "垂直拆分"
+  - "ShardingSphere"
+  - "Vitess"
+  - "分片键"
+updated: "2026-07-25"

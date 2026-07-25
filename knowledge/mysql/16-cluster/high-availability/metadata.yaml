@@ -1,0 +1,14 @@
+name: "高可用架构"
+section: "16-cluster"
+difficulty: "advanced"
+prerequisites:
+  - "13-replication/master-slave"
+  - "13-replication/replication-lag"
+topics:
+  - "高可用"
+  - "MHA"
+  - "Orchestrator"
+  - "InnoDB Cluster"
+  - "Group Replication"
+  - "故障切换"
+updated: "2026-07-25"

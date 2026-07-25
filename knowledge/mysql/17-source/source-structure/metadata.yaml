@@ -1,0 +1,13 @@
+name: "MySQL 源码结构"
+section: "17-source"
+difficulty: "advanced"
+prerequisites:
+  - "12-engine/innodb-architecture"
+  - "01-basic/what-is-mysql"
+topics:
+  - "MySQL 源码"
+  - "C++ 源码"
+  - "目录结构"
+  - "编译"
+  - "CMake"
+updated: "2026-07-25"

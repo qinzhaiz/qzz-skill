@@ -1,0 +1,16 @@
+name: "常见设计模式"
+section: "11-design"
+difficulty: "intermediate"
+prerequisites:
+  - "11-design/er-model"
+  - "11-design/normalization"
+  - "02-ddl/create-table"
+topics:
+  - "树形结构"
+  - "邻接表"
+  - "嵌套集"
+  - "多态关联"
+  - "软删除"
+  - "审计日志"
+  - "EAV 模式"
+updated: "2026-07-25"

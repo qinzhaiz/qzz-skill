@@ -1,0 +1,13 @@
+name: "Change Buffer"
+section: "12-engine"
+difficulty: "advanced"
+prerequisites:
+  - "12-engine/buffer-pool"
+  - "06-index/what-is-index"
+topics:
+  - "Change Buffer"
+  - "插入缓冲"
+  - "二级索引"
+  - "写入优化"
+  - "随机 IO"
+updated: "2026-07-25"

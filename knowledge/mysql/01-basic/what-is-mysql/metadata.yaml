@@ -1,0 +1,7 @@
+name: MySQL 是什么
+section: 01-basic
+difficulty: beginner
+prerequisites:
+  - 01-basic/what-is-database
+topics: [MySQL, DBMS, 开源, 客户端-服务器]
+updated: 2025-07-25

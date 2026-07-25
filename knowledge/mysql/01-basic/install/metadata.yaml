@@ -1,0 +1,7 @@
+name: 安装 MySQL
+section: 01-basic
+difficulty: beginner
+prerequisites:
+  - 01-basic/what-is-mysql
+topics: [安装, 命令行, 连接]
+updated: 2025-07-25

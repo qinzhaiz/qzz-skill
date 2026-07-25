@@ -1,0 +1,13 @@
+name: "编译与调试"
+section: "17-source"
+difficulty: "advanced"
+prerequisites:
+  - "17-source/source-structure"
+  - "17-source/innodb-source"
+topics:
+  - "编译 MySQL"
+  - "CMake"
+  - "GDB 调试"
+  - "Debug 模式"
+  - "源码安装"
+updated: "2026-07-25"

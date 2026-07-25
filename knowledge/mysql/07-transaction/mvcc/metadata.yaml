@@ -1,0 +1,8 @@
+name: MVCC
+section: 07-transaction
+difficulty: advanced
+prerequisites:
+  - 07-transaction/isolation
+  - 07-transaction/acid
+topics: [MVCC, ReadView, undo log, 版本链, 多版本并发控制]
+updated: 2025-07-25

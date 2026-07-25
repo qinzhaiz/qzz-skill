@@ -1,0 +1,14 @@
+name: "慢查询日志"
+section: "10-performance"
+difficulty: "beginner"
+prerequisites:
+  - "04-query/select"
+  - "10-performance/explain"
+topics:
+  - "慢查询"
+  - "slow_query_log"
+  - "mysqldumpslow"
+  - "pt-query-digest"
+  - "long_query_time"
+  - "性能诊断"
+updated: "2026-07-25"

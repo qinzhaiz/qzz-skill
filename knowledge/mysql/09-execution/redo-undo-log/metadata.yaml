@@ -1,0 +1,16 @@
+name: "redo log 和 undo log"
+section: "09-execution"
+difficulty: "advanced"
+prerequisites:
+  - "07-transaction/acid"
+  - "07-transaction/mvcc"
+  - "08-lock/row-lock"
+topics:
+  - "redo log"
+  - "undo log"
+  - "WAL"
+  - "crash recovery"
+  - "崩溃恢复"
+  - "脏页"
+  - "checkpoint"
+updated: "2026-07-25"

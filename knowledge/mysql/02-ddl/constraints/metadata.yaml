@@ -1,0 +1,8 @@
+name: 约束
+section: 02-ddl
+difficulty: beginner
+prerequisites:
+  - 02-ddl/create-table
+  - 02-ddl/datatypes
+topics: [PRIMARY KEY, FOREIGN KEY, NOT NULL, UNIQUE, DEFAULT]
+updated: 2025-07-25

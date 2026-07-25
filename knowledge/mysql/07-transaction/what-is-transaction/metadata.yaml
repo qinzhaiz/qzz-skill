@@ -1,0 +1,9 @@
+name: 事务是什么
+section: 07-transaction
+difficulty: intermediate
+prerequisites:
+  - 03-dml/insert
+  - 03-dml/update
+  - 03-dml/delete
+topics: [事务, COMMIT, ROLLBACK, BEGIN]
+updated: 2025-07-25
