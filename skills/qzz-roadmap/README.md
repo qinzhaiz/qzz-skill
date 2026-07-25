@@ -57,9 +57,9 @@ qzz-explain：当导游
 
 ## 与知识库的关系
 
-生成的路线图会自动关联 `knowledge/mysql/` 目录中已有的知识：
-- 已有知识（17 章 71 个概念）标注为 📖 `knowledge/mysql/<章节>/<概念>/`
+生成的路线图会自动关联 `qzz-mysql` skill 中已有的知识：
+- 已有知识（17 章 71 个概念）标注为 📖 `qzz-mysql/references/<章节>/<概念>/`
 - 每个概念包含 7 个文件：正文、示例、练习、常见错误、面试题、参考资料
 - 缺失的重要话题标记为 "建议建设"，方便后续扩展
 
-现有知识库覆盖范围见 `knowledge/mysql/README.md` 和 `knowledge/mysql/glossary.md`。
+安装知识库：`npx skills add qinzhaiz/qzz-skill --skill qzz-mysql`

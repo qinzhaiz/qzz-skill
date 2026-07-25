@@ -72,10 +72,10 @@ license: CC BY-NC 4.0
 
 ## 第五步：关联资源
 
-- 优先检查 `knowledge/mysql/` 目录中的现有知识库（17 章 71 个概念）
+- 优先检查 `qzz-mysql` skill 的知识库：`../qzz-mysql/references/`（17 章 71 个概念）
 - 已有知识库覆盖范围：01-basic（基础）→ 02-ddl → 03-dml → 04-query → 05-function → 06-index → 07-transaction → 08-lock → 09-execution → 10-performance → 11-design → 12-engine → 13-replication → 14-backup → 15-security → 16-cluster → 17-source（源码）
 - 每个概念包含 7 个文件：README.md / metadata.yaml / examples.md / exercises.md / mistakes.md / interview.md / references.md
-- 在 roadmap 中标注已有知识库可查阅的话题，格式：`📖 knowledge/mysql/<章节>/<概念>/`
+- 在 roadmap 中标注已有知识库可查阅的话题，格式：`📖 qzz-mysql/references/<章节>/<概念>/`
 - 对于知识库中缺失的话题，标记为 `📖 建议建设`
 
 # Output style
@@ -137,7 +137,8 @@ license: CC BY-NC 4.0
 - 预估时间按"每周 8-10 小时投入"为基准，不要低估——学习者不是全职学习
 - 必须画依赖全景图——这是整个路线图的核心价值，不能省略
 - 如果领域内有重大争议（如"先学 C 还是先学 Python"），给出两条路径并说明各自的 trade-off，而非强行推荐一条
-- 知识库已有的话题必须引用路径，格式：`📖 knowledge/mysql/<章节>/<概念>/`
-- 知识库缺失的重要话题标记为 `📖 建议建设：knowledge/mysql/<章节>/<概念>/`
-- MySQL 知识库已覆盖 71 个概念（详见 `knowledge/mysql/README.md`），生成路线图时应尽量复用现有资源
-- 生成 MySQL 相关 roadmap 时，直接使用知识库中已有的章节编号和概念名称，保持一致性
+- 知识库已有的话题必须引用路径，格式：`📖 qzz-mysql/references/<章节>/<概念>/`
+- 知识库缺失的重要话题标记为 `📖 建议建设：skills/qzz-mysql/references/<章节>/<概念>/`
+- 生成 MySQL 路线图时，先检查是否安装了 `qzz-mysql` skill（`../qzz-mysql/references/`）
+- 安装了则直接引用 qzz-mysql 的章节和概念名；未安装则正常生成路线图，并提示安装：`npx skills add qinzhaiz/qzz-skill --skill qzz-mysql`
+- 对其他领域照常生成路线图，不需要本地知识库

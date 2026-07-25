@@ -81,9 +81,9 @@ license: CC BY-NC 4.0
 - 深讲：给出一个自查问题（不是选择题，是"请用你自己的话解释为什么 X 要这样设计"），然后问"想保存这次讲解到知识库吗？"
 - 纠错：给一个反例验证修正是否成功
 
-如果用户同意保存，将讲解内容写入知识库。格式与现有结构一致：
-- MySQL 领域：`knowledge/mysql/<章节编号-名称>/<概念名>/README.md`
-- 每个概念目录包含 7 个标准文件：README.md / metadata.yaml / examples.md / exercises.md / mistakes.md / interview.md / references.md
+如果用户同意保存，将讲解内容写入 `qzz-mysql` 技能的知识库。格式与现有结构一致：
+- 路径：`skills/qzz-mysql/references/<章节编号-名称>/<概念名>/README.md`
+- 每个概念包含 7 个文件：README.md / metadata.yaml / examples.md / exercises.md / mistakes.md / interview.md / references.md
 - 现有知识库覆盖 17 章 71 个概念，保存前先检查是否已有对应目录（避免重复）
 
 # Output style
@@ -112,9 +112,7 @@ license: CC BY-NC 4.0
 - 深讲模式每段不超过 3 个新概念
 - 类比必须用日常场景。禁止用另一个技术概念做类比（如"索引就像 HashMap"——如果对方不知道 HashMap 呢？）
 - 不假定先验知识，除非用户明确有基础
-- 知识库已有对应主题时，引用路径（格式：`knowledge/mysql/<章节>/<概念>/`）
-- 现有 MySQL 知识库：17 章（01-basic ~ 17-source），71 个概念，见 `knowledge/mysql/README.md` 和 `knowledge/mysql/glossary.md`
-- 用户在学某个概念时，先查 glossary.md 确认是否已有对应内容，已有则引导阅读而非重讲
-- 对有多种主流实现的概念，讲清 trade-off，不说哪个更好
-- 每次深讲结束，主动问是否保存到 knowledge/mysql/ 对应章节
-- 如果用户在 roadmap 的某个阶段中，讲解时关联 roadmap 上下文（"这是你当前阶段——索引原理——中的核心概念"）
+- 讲解 MySQL 概念前，先检查是否安装了 `qzz-mysql` skill（路径：`../qzz-mysql/references/`）
+- 如果已安装，先查 glossary.md 定位，已有内容则引导用户阅读原文（含示例、练习、面试题），本 skill 做补充深讲
+- 如果未安装，正常讲解，结束后提示安装知识库：`npx skills add qinzhaiz/qzz-skill --skill qzz-mysql`
+- 对其他技术领域（Python、Go 等）直接讲解，不需要查本地知识库

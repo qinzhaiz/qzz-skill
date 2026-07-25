@@ -1,4 +1,6 @@
-# MySQL 知识库
+# MySQL 知识库（源码）
+
+> ⚠️ 这里是编辑用的源码目录。构建后拷贝到 `skills/qzz-mysql/references/mysql/`，通过 `npx skills add qinzhaiz/qzz-skill --skill qzz-mysql` 安装。
 
 面向大学生和初级开发工程师，从零到能干活。71 个概念，覆盖 MySQL 8.0 核心知识。
 
